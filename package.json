@@ -1,0 +1,23 @@
+{
+  "name": "bank-security-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "face-api.js": "latest",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "22.14.1",
+    "typescript": "5.8.3"
+  }
+}
