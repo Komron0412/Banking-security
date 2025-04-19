@@ -1,4 +1,4 @@
-// File: /Users/macbook/Desktop/APP/app/page.tsx
+// File: D:\mobile projects\Banking-security\app\page.tsx
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

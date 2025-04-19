@@ -13,8 +13,8 @@
     "@types/react-dom": "latest",
     "face-api.js": "latest",
     "next": "latest",
-    "react": "latest",
-    "react-dom": "latest"
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
   },
   "devDependencies": {
     "@types/node": "22.14.1",
